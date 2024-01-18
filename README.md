@@ -3,7 +3,7 @@
 ## Software Development
 - Version Control: GIT, GitHub, Subversion (SVN)
 - Backend development: shell scripting, PHP, Java
-- Frontend development: HTML/CSS, Javascript, jQuery
+- Frontend development: HTML/CSS, Javascript, jQuery, Tailwind CSS
 - Integrations: REST based APIs, Zapier
 - AI: OpenAI API, Stable Diffusion, vector databases
 
@@ -17,8 +17,7 @@
 - Mail server administration
 - Web server administartion: Apache, PHP-FPM, Tomcat
 - Database server administration: MySQL/MariaDB, PostgreSQL
-- Virtualization: KVM, Xen, Docker
-- Cloud: AWS, Google Cloud, Azure, Heroku
+- Virtualization: KVM, Xen
 
 ## Hardware
 - PC & Mac
@@ -32,7 +31,7 @@
 - eCom platforms: WooCommerce, Shopify, MyCashflow
 - Product management: GS1 Digital Link, RFID
 - Warehouse management: Ongoing WMS, myOGO WMS, RePack WMS
-- Design: Canva, Miro, GIMP
+- Design: Canva, Miro, GIMP, Adobe Illustrator & Photoshop
 - Project & task management: Notion, Teamwork, Trello, Google Workspace
 - Communication: Slack, Discord, Yammer, Google Meet, MS Teams
 - Marketing automation: HubSpot
